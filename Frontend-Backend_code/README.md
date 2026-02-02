@@ -105,7 +105,7 @@ Book_Three_Tier_Application_infra
 
 ### Clone the repository:
 ``` bash
-git clone https://github.com/mahimapatel93/Book_Three_Tier_Application_infra.git  
+git clone https://github.com/sasipreethamchandaka/Module-Three-Tier.git  
 cd Frontend-Backend_code/backend  
 ```
 ### Create `.env` file:
@@ -227,6 +227,7 @@ sudo nginx -tsudo systemctl reload nginx
 ## Author
 
 **Mahima Patel** 
-DevOps & Cloud Engineering Student  
+DevOps & Cloud Engineering   
 
-GitHub: https://github.com/mahimapatel93
+GitHub: https://github.com/sasipreethamchandaka
+
