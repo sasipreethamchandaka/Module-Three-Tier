@@ -42,7 +42,7 @@ This project provisions and deploys a **three-tier application
 
 - Terraform >= 1.x
 - AWS CLI configured
-- Existing AWS EC2 Key Pair (`himas`)
+- Existing AWS EC2 Key Pair (`sasich`)
 - Valid AMI ID for the selected region (`us-east-1`)
 
 ---
@@ -147,6 +147,6 @@ terraform apply
 
 ## Author
 Mahima Patel 
-DevOps & Cloud Engineering Student  
+DevOps & Cloud Engineering   
 
-GitHub: https://github.com/mahimapatel93
+GitHub: https://github.com/sasipreethamchandaka
