@@ -1,6 +1,6 @@
 ![Uploading architecture.gif…]()
 
-# Book Three-Tier Application on AWS (Custom Setup)
+# Module Three-Tier Application on AWS (Custom Setup)
 
 This repository showcases a production-style **three-tier web application**
 (Frontend, Backend, and Database) deployed on AWS using a **custom infrastructure approach**.
@@ -146,7 +146,7 @@ Backend should be reachable via the Backend Load Balancer DNS.
 
 Clone the repository:
 ``` bash
-git clone https://github.com/mahimapatel93/Book_Three_Tier_Application_infra.git  
+git clone https://github.com/sasipreethamchandaka/Module_Three_Tier_Application_infra.git  
 cd Frontend-Backend_code/client  
 ```
 Update backend API URL:
@@ -226,8 +226,9 @@ sudo nginx -tsudo systemctl reload nginx
 
 ## Author
 
-**Mahima Patel** 
+**sasi preetham chandaka** 
 DevOps & Cloud Engineering   
 
 GitHub: https://github.com/sasipreethamchandaka
+
 
